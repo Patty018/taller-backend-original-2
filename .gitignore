@@ -26,3 +26,5 @@ TestResults.xml
 app.db
 
 \__pycache__
+
+instance/
